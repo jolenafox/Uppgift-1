@@ -1,0 +1,16 @@
+body {
+    background: rgb(255, 237, 33)
+
+}
+
+p {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    
+}
+
+h1 {
+    color: blue
+}
+h2 {
+    text-transform: uppercase;
+}

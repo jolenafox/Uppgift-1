@@ -1,5 +1,5 @@
 body {
-    background: rgb(255, 237, 33)
+    background: rgb(248, 241, 172)
 
 }
 
@@ -9,7 +9,7 @@ p {
 }
 
 h1 {
-    color: blue
+    color: rgb(67, 67, 155)
 }
 h2 {
     text-transform: uppercase;

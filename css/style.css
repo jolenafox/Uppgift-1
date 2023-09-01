@@ -1,0 +1,35 @@
+* {
+    margin-top: 0;
+    padding: 0;
+    background-color: rgb(177, 177, 206);
+}
+
+h1 {
+    color: rgb(58, 58, 110);
+}
+p, h3 {
+    color:rgb(98, 98, 141);
+}
+
+p {
+    padding: 0px 250px;
+}
+.image {
+    width: 500px;
+    border: 10px rgb(58, 58, 110) dashed;
+    float: center;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.content {
+    margin-top: 20px;
+    margin-left: 250px;
+    margin-right: 250px;
+    text-align: center;
+
+}
+
+.text {
+    border: 10px rgb(120,120,212) outset;
+}
